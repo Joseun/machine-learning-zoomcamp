@@ -19,7 +19,7 @@ The dataset used for this project is available in two files:
 - `reviews.csv`: This file contains information about Amazon products, including product details and reviews.
 - `recommendations.parquet`: This file contains precomputed product recommendations for known users.
 
-To obtain the dataset, you can follow the instructions in the [data/README.md](data/README.md) file or download it from [Kaggle](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews) or [archive source](https://jmcauley.ucsd.edu/data/amazon/).
+To obtain the dataset, you can download it from [Kaggle](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews) or [archive source](https://jmcauley.ucsd.edu/data/amazon/).
 
 ## Notebook
 The Jupyter notebook named `ranking.ipynb` provides a detailed exploration of the data preparation, cleaning, EDA, feature importance analysis, model selection, and parameter tuning. It offers a step-by-step explanation of the entire process.
