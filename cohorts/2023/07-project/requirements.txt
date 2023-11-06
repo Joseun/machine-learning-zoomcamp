@@ -1,0 +1,9 @@
+fastapi
+pandas
+uvicorn
+scikit-learn
+xgboost
+numpy
+mlflow
+prefect
+hyperopt
