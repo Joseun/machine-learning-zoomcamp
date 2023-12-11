@@ -1,34 +1,27 @@
-*.h5
+# generated
 .ipynb_checkpoints/
 __pycache__/
-/chapter-07-neural-nets/clothing-dataset-small/
-/chapter-09-kubernetes/clothing-model/
-/chapter-09-kubeflow/clothing-model/
+**my_dir/
+**logs/
+**models/
+
+# file types
+*.h5
 *.tflite
+*.zip
+*.pdf
 
-.ipynb_checkpoints
-.bin
-*.db
+# data folders
+**data/
 
-*.parquet
-*.html
-*.csv
-*.pkl
+#  content-specific
+/08-deep-learning/clothing-dataset-small/
+/08-deep-learning/clothing-dataset/
+/08-deep-learning/ImageClassification/
+/08-deep-learning/my_dir/
 
-.venv
-venv
-.idea
-**/artifacts/
-**/artifacts_local/
-**/models/
-**/mlruns/
+/09-serverless/clothing-model/
+/09-serverless/clothing-model/
 
-__pycache__/
-**.env
-**.terraform/
-**.terraform.lock*
-**terraform.tfstate*
-
-.DS_Store
-
-soft/
+**midterms_evaluations/
+**samples/
