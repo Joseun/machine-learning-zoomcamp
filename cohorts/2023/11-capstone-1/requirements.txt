@@ -1,0 +1,8 @@
+fastapi
+pandas
+mlflow
+hyperopt
+python-decouple
+prefect-azure[blob_storage]
+uvicorn
+gunicorn
